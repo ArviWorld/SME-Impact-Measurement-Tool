@@ -4,7 +4,7 @@ The SME Impact Measurement Tool is a downloadable Excel-based framework designed
 # Download the Tool
 The tool is available as a macro-enabled Excel file:
 
-**- Download:** *SME_Impact_Measurement_Tool.xlsm* from this repository.
+**- Download:** *SME_Impact_Measurement_Tool.xlsm* from this repository.  
 **Please enable macros after downloading to ensure full functionality.**
 
 ## Scope & Purpose
